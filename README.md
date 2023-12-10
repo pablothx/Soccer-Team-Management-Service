@@ -1,5 +1,7 @@
 
 # Soccer Team Management Service
+![Logo](src/main/resources/static/logo.png)
+
 This is a simple CRUD application for managing soccer teams.
 
 ## Running the Application
