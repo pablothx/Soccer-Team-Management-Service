@@ -1,5 +1,5 @@
 
-# Soccer Team Management System
+# Soccer Team Management Service
 This is a simple CRUD application for managing soccer teams.
 
 ## Running the Application
