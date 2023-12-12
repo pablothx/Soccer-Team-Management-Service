@@ -9,7 +9,10 @@ Run the application using Maven:
 ```
 ./mvnw spring-boot:run
 ```
-
+Run using Docker compose
+```
+docker-compose up --build
+```
 ## CRUD Operations
 
 ### Create a Team
