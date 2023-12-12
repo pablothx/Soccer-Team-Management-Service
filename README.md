@@ -44,7 +44,7 @@ To delete a team:
 curl -X DELETE localhost:8085/teams/1
 ```
 
-### Find Teams (Assuming Find Functionality Exists)
+### Find Teams
 To find teams based on certain criteria (e.g., name):
 ```
 curl "localhost:8085/teams/search?name=Team+Name"
